@@ -1,0 +1,24 @@
+
+@media (min-width: 600px) {
+    .landr{
+        max-width: 500px;
+        min-width: 300px;
+        margin-top: 20px;
+    }
+}
+
+.leftcon{
+    background-color: lightsteelblue;
+}
+
+.ul {
+    text-decoration: underline;
+}
+
+.btnsp {
+    margin-top: 5px;
+}
+
+.entryword {
+    width: 120px;
+}
